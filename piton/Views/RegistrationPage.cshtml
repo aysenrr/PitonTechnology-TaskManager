@@ -1,0 +1,36 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Registration Page";
+}
+
+<h1>Registration Page</h1>
+
+<form asp-action="register" method="post">
+    <div>
+        <label asp-for="Username">Username:</label>
+        <input asp-for="Username" required />
+    </div>
+    <div>
+        <label asp-for="Password">Password:</label>
+        <input asp-for="Password" type="password" required />
+    </div>
+    <div>
+        <label asp-for="ConfirmPassword">Confirm Password:</label>
+        <input asp-for="ConfirmPassword" type="password" required />
+    </div>
+    <div>
+        <label asp-for="FirstName">First Name:</label>
+        <input asp-for="Firstname" required />
+    </div>
+    <div>
+        <label asp-for="Last Name">Last Name:</label>
+        <input asp-for="Last Name" required />
+    </div>
+    <div>
+        <label asp-for="Email">Email:</label>
+        <input asp-for="Email" type="email" required />
+    </div>
+    <div>
+        <button type="submit">Register</button>
+    </div>
+</form>

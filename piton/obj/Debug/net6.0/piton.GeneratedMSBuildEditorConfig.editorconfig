@@ -1,0 +1,36 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = piton
+build_property.RootNamespace = piton
+build_property.ProjectDir = C:\Users\AYŞENUR\Desktop\C#\piton\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\AYŞENUR\Desktop\C#\piton
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/AYŞENUR/Desktop/C\#/piton/Views/DailyReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AYŞENUR/Desktop/C\#/piton/Views/LoginPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5QYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AYŞENUR/Desktop/C\#/piton/Views/MonthlyReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9udGhseVJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AYŞENUR/Desktop/C\#/piton/Views/RegistrationPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AYŞENUR/Desktop/C\#/piton/Views/WeeklyReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vla2x5UmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
